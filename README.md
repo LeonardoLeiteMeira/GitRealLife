@@ -1,6 +1,6 @@
 A git course at Udemy
 
-Big Picture by HTML5 UP
+> Big Picture by HTML5 UP
 
 
 html5up.net | @ajlkn
