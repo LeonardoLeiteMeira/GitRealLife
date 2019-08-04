@@ -1,4 +1,4 @@
-#A git course at Udemy
+# A git course at Udemy
 
 > Big Picture by HTML5 UP
 
